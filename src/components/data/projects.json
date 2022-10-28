@@ -31,5 +31,22 @@
             {"detail" : "DEveloped backend infrastructure to  maintain and support AI gateway with Spotify"}
 
         ]
+    },
+    {
+        "title" : "Stars R' Us",
+        "details": [
+            {"detail" : "Created a mock brokerage software system that handles stock transactions for stocks of movie stars and directors"},
+            {"detail" : "Implemented in Java with a connection to a SQL relational database"},
+            {"detail" : "Identified system constraints with an ER diagram and used UML to map out functional architecture of the system design"},
+            {"detail" : "Modularized system components to improve reusability and maintain clean code!"}   
+        ]
+    },{
+        "title" : "Stars R' Us",
+        "details": [
+            {"detail" : "Created a mock brokerage software system that handles stock transactions for stocks of movie stars and directors"},
+            {"detail" : "Implemented in Java with a connection to a SQL relational database"},
+            {"detail" : "Identified system constraints with an ER diagram and used UML to map out functional architecture of the system design"},
+            {"detail" : "Modularized system components to improve reusability and maintain clean code!"}   
+        ]
     }
 ]

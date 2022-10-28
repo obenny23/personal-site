@@ -43,7 +43,7 @@
   font-family:'Courier New', Courier, monospace;
   display: block;
   height: fit-content;
-  padding: 1rem 4rem;
+  padding: 1rem 3rem;
   text-align: left;
   color:aliceblue;
   
@@ -56,19 +56,17 @@
 
 .project-card{
   display: block;
-  border-color: antiquewhite;
-  border-width: 4px;
-  padding: 1rem 2rem;
+  padding: 1rem 0;
   text-align: left;
-  display: inline;
 }
 
 .project-card ul{
   list-style-type: none;
+  color: azure;
 }
 
 .project-card h2{
-  padding-left: 10px;
+  padding-left: 1rem;
   color: aliceblue;
 }
 
