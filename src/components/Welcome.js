@@ -3,8 +3,10 @@ import React from 'react';
 const Welcome = () => {
 
     return(
-        <div>
-            <h1>Welcome</h1>
+        <div className='Greetings'>
+            <h1>Welcome,</h1>
+            <h1>Benigno Ortega </h1>
+            {/* <h2>/[:</h2> */}
         </div>
     )
 };

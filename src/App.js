@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Footer from './components/Footer';
 import Welcome from './components/Welcome';
-import logo from './logo.svg';
+import Body from './components/Body';
+import Footer from './components/Footer';
 
 class App extends React.Component {
   render(){
@@ -10,7 +10,7 @@ class App extends React.Component {
       <div className="App">
         <Welcome />
 
-        <img src={logo} alt=""></img>
+        <Body />
         <Footer />
       </div>
     );

@@ -1,0 +1,23 @@
+{
+    "Projects": [
+        {
+            "id" : 1,
+            "details_count": 3,
+            "details": [
+                {},
+                {},
+                {"det" : "Helloo world!"}
+            ]
+        },
+        {
+            "id" : 2,
+            "details_count": 1,
+            "details": []
+        },
+        {
+            "id" : 2,
+            "details_count": 2,
+            "details": []
+        }
+    ]
+}
