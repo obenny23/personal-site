@@ -1,0 +1,35 @@
+[
+    {
+        "title" : "Anchorless",
+        "details": [
+            {"detail" : "Led a team in prototyping an autonomous repositioning ocean-tether system to aid a comprehensive network of data points that monitor coastal ecosystems in California"},
+            {"detail" : "Developed the Python control system responsible for navigation and propulsion"},
+            {"detail" : "Analyzed performance tests to tune PID controllers for path optimization with minimal power consumption"},
+            {"detail" : "Maintained documentation of each iteration in the design process to outline key components and processes"}
+        ]
+    },
+    {
+        "title" : "Gobang Game Bot",
+        "details": [
+            {"detail" : "Devised an AI program capable of playing out a competitive game of gobang built using C++"},
+            {"detail" : "Bot's move search utilizes minimax algorithm with alpha-beta pruning and refined move hearistics"}
+        ]
+    },
+    {
+        "title" : "Stars R' Us",
+        "details": [
+            {"detail" : "Created a mock brokerage software system that handles stock transactions for stocks of movie stars and directors"},
+            {"detail" : "Implemented in Java with a connection to a SQL relational database"},
+            {"detail" : "Identified system constraints with an ER diagram and used UML to map out functional architecture of the system design"},
+            {"detail" : "Modularized system components to improve reusability and maintain clean code!"}   
+        ]
+    },
+    {
+        "title" : "Spotify Visualizer",
+        "details" : [
+            {"detail" : "Produced a demo for an android application designed to enhance Spotify's music listening experience with a coordinated visual choreography synched using track analysis"},
+            {"detail" : "DEveloped backend infrastructure to  maintain and support AI gateway with Spotify"}
+
+        ]
+    }
+]

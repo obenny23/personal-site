@@ -41,15 +41,31 @@
 /*******************************************************************
                       CSS FOR HEADER
 ********************************************************************/
-.Welcome h1{
+.greetings{
   /* font-family:'Courier New', Courier, monospace; */
+
+  display: block;
   height: 40px;
+  margin: 2rem 4rem;
   text-align: left;
-  
-  justify-content: left;
 }
 
 
+/*******************************************************************
+                      CSS FOR Body
+********************************************************************/
+
+.project-card{
+  height: fit-content;
+  padding: 0 12px;
+  text-align: left;
+}
+
+.project-card 
+
+.project-card h2{
+  padding-left: 10px;
+}
 
 
 /*******************************************************************
@@ -57,9 +73,8 @@
 ********************************************************************/
 
 .social{
-  display: flex;
-  display:inline;
-align-self: center;
+  position: relative;
+  
 }
 
 
